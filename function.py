@@ -10,5 +10,5 @@ def calculate_discount (price, discount_percent):
         print(f"The final price is: {price_after_discount}")
    
     else:
-        print (f"No discount applied. The final price is: {price}")
+        print(f"No discount applied. The final price is: {price}")
 calculate_discount(price,discount_percent)
