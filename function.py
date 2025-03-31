@@ -1,4 +1,3 @@
-# Week-3-Python-Assignment
 price = float(input("Enter the original price of the item: "))
 discount_percent = float(input("Enter the discount percentage: "))
 
